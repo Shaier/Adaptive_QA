@@ -13,10 +13,13 @@ conda create -n adaptive_qa python=3.11
 2. Activate the environment:  
 conda activate adaptive_qa 
 
-3. Clone the repository:  
+3. Install the required packages:  
+pip install -r requirements.txt 
+
+4. Clone the repository:  
 git clone https://github.com/Shaier/Adaptive_QA.git 
 
-4. Navigate to the repository directory:  
+5. Navigate to the repository directory:  
 cd Adaptive_QA 
 
 ## Datasets 
