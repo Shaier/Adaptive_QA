@@ -17,7 +17,7 @@ conda activate adaptive_qa
 git clone https://github.com/Shaier/Adaptive_QA.git 
 
 4. Navigate to the repository directory:  
-cd Adaptive_QA %
+cd Adaptive_QA 
 
 ## Datasets 
 ------------ 
