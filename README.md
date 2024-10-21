@@ -32,5 +32,5 @@ Alternatively, you can prepare the datasets using the provided notebooks:
 ## Citation 
 ------------ 
 If you use the code or paper, please cite us with: 
-latex 
-INSERT CITATION HERE 
+
+TODO after EMNLP releases citation and link
