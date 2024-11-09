@@ -37,4 +37,18 @@ Alternatively, you can prepare the datasets using the provided notebooks:
 ------------ 
 If you use the code or paper, please cite us with: 
 
-TODO after EMNLP releases citation and link
+@inproceedings{shaier-etal-2024-adaptive,
+    title = "Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations",
+    author = "Shaier, Sagi  and
+      Kobren, Ari  and
+      Ogren, Philip",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.956",
+    pages = "17226--17239"}
