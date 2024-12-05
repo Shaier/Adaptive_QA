@@ -1,5 +1,5 @@
 # Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations 
-## Paper: [Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations](https://arxiv.org/pdf/2410.04241)
+## Paper: [Adaptive Question Answering: Enhancing Language Model Proficiency for Addressing Knowledge Conflicts with Source Citations](https://aclanthology.org/2024.emnlp-main.956/)
 
 ## Getting Started 
 --------------- 
